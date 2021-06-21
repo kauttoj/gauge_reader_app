@@ -38,6 +38,9 @@ data.ratios  - ratio of non-overlapping pixels after alignment per mask size (si
 data.thresholds  - segmentation threshold used for the current frame
 
 
+For the segmentation, I used a modified version of the function by D. Kroon (University of Twente), see: https://www.mathworks.com/matlabcentral/fileexchange/19084-region-growing
+
+
 Example of an original video frame:
 
 ![vlcsnap-2021-06-21-10h39m26s527](https://user-images.githubusercontent.com/17804946/122725067-4b3d8500-d27d-11eb-94fa-b5b846b84b34.png)
