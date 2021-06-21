@@ -39,9 +39,11 @@ data.thresholds  - segmentation threshold used for the current frame
 
 
 Example of an original video frame:
+
 ![vlcsnap-2021-06-21-10h39m26s527](https://user-images.githubusercontent.com/17804946/122725067-4b3d8500-d27d-11eb-94fa-b5b846b84b34.png)
 
 Example of the same video after focusing, choosing the center point and segmenting:
+
 ![image](https://user-images.githubusercontent.com/17804946/122724853-06b1e980-d27d-11eb-8d31-2cda3ea25bdf.png)
 
 
