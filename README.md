@@ -41,13 +41,17 @@ data.thresholds  - segmentation threshold used for the current frame
 For the segmentation, I used a modified version of the function by D. Kroon (University of Twente), see: https://www.mathworks.com/matlabcentral/fileexchange/19084-region-growing
 
 
-Example of an original video frame:
+Example of an original video frame (water meter):
 
 ![vlcsnap-2021-06-21-10h39m26s527](https://user-images.githubusercontent.com/17804946/122725067-4b3d8500-d27d-11eb-94fa-b5b846b84b34.png)
 
 Example of the same video after focusing, choosing the center point and segmenting the red needle:
 
 ![image](https://user-images.githubusercontent.com/17804946/122724853-06b1e980-d27d-11eb-8d31-2cda3ea25bdf.png)
+
+Plotted timeseries of detected needle rotations:
+
+![image](https://user-images.githubusercontent.com/17804946/123050857-d0ee3b80-d409-11eb-9f30-e26f45055c96.png)
 
 
 
